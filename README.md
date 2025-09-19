@@ -1,3 +1,6 @@
+This Bash script automates the process of downloading audio from a list of video links using yt-dlp, a command-line tool for downloading videos from various platforms.
+
+
 Make the Script Executable:
 
 
