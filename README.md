@@ -9,7 +9,7 @@ bash
 
 Prepare Your Links:
 
-    Create a text file (e.g., links.txt) containing the URLs you want to download, with one URL per line.
+Create a text file (e.g., links.txt) containing the URLs you want to download, with one URL per line.
 
 
 bash
