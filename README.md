@@ -3,9 +3,9 @@ This Bash script automates the process of downloading audio from a list of video
 
 Make the Script Executable:
 
+bash
 
-
-chmod +x download_mp3.sh
+    chmod +x download_mp3.sh
 
 Prepare Your Links:
 
