@@ -1,6 +1,6 @@
 Make the Script Executable:
 
-bash
+
 
 chmod +x download_mp3.sh
 
@@ -8,7 +8,6 @@ Prepare Your Links:
 
     Create a text file (e.g., links.txt) containing the URLs you want to download, with one URL per line.
 
-Run the Script:
 
 bash
 
