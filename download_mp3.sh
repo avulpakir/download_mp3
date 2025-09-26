@@ -18,7 +18,7 @@ input_file="$1"
 # Download each link in MP3 format
 while IFS= read -r link; do
     echo "Downloading: $link"
-    yt-dlp -x --audio-format mp3 "$link"
+    yt-dlp -x --audio-format mp3 --extractor-args "youtube:player-client=default,-tv_simply" "$link"
 done < "$input_file"
 
 echo "Download completed."
